@@ -104,5 +104,33 @@ http://www.podcastgarden.com/episode/cleiton-vidal-29-12-16_98559
 <itunes:keywords/>
 <itunes:explicit>no</itunes:explicit>
 </item>
+<item>
+<title>Ana e Fernanda - 1</title>
+<itunes:author>info@podcastgarden.com ()</itunes:author>
+<itunes:subtitle>Primeira part</itunes:subtitle>
+<itunes:summary>Louvor Quinta-feira</itunes:summary>
+<enclosure url="https://archive.org/download/120117_201702/AnaEFernanda16-02-201711.m4a" type="audio/mpeg" length="0334"/>
+<guid>
+http://fb.com/mayconmo
+</guid>
+<pubDate>Thu, 16 Feb 2017 00:00:00 MST</pubDate>
+<itunes:duration>3:34</itunes:duration>
+<itunes:keywords/>
+<itunes:explicit>no</itunes:explicit>
+</item>
+<item>
+<title>Ana e Fernanda - 2</title>
+<itunes:author>info@podcastgarden.com ()</itunes:author>
+<itunes:subtitle>Segunda part</itunes:subtitle>
+<itunes:summary>Louvor Quinta-feira</itunes:summary>
+<enclosure url="https://archive.org/download/120117_201702/AnaEFernanda16-02-201722.m4a" type="audio/mpeg" length="0339"/>
+<guid>
+http://fb.com/mayconmo
+</guid>
+<pubDate>Thu, 16 Feb 2017 00:00:00 MST</pubDate>
+<itunes:duration>3:39</itunes:duration>
+<itunes:keywords/>
+<itunes:explicit>no</itunes:explicit>
+</item>
 </channel>
 </rss>
