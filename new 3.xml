@@ -48,120 +48,78 @@ Criado em 2017,Maycon Maia é um podcast que aborda temas relacionados a musica,
     <width>1400</width>
     <height>1400</height>    
   </image>
-<item>
-<title>Cleiton 07-02-17</title>
-<itunes:author>mayconmo@gmail.com ()</itunes:author>
-<itunes:subtitle>sumariooo</itunes:subtitle>
-<itunes:summary>sumariooo</itunes:summary>
-<enclosure url="https://archive.org/download/120117_201702/CleitonVidal07-02-17.m4a" type="audio/m4a" length="6206"/>
-<guid>
-http://www.podcastgarden.com/episode/cleiton-07-02-17_98459
-</guid>
-<pubDate>Tue, 7 Feb 2017 00:00:00 MST</pubDate>
-<itunes:duration>62:06</itunes:duration>
-<itunes:keywords>chave,chave</itunes:keywords>
-<itunes:explicit>no</itunes:explicit>
-</item>
-<item>
-<title>Sarah e Dalva</title>
-<itunes:author>info@podcastgarden.com ()</itunes:author>
-<itunes:subtitle>Louvor de Sarah e Dalva</itunes:subtitle>
-<itunes:summary>Louvor de Sarah e Dalva</itunes:summary>
-<enclosure url="https://archive.org/download/120117_201702/DalvaESarah22-01-17.m4a" type="audio/mpeg" length="0445"/>
-<guid>
-http://www.podcastgarden.com/episode/sarah-e-dalva_98560
-</guid>
-<pubDate>Sun, 22 Jan 2017 00:00:00 MST</pubDate>
-<itunes:duration>04:45</itunes:duration>
-<itunes:keywords/>
-<itunes:explicit>no</itunes:explicit>
-</item>
 
 <item>
-<title>Pr Sergio Salvador</title>
-<itunes:author>info@podcastgarden.com ()</itunes:author>
-<itunes:subtitle>Pregação do pr.Sergio Salvador</itunes:subtitle>
-<itunes:summary>Pregação do pr.Sergio Salvador</itunes:summary>
-<enclosure url="https://archive.org/download/120117_201702/pastor.mp3" type="audio/mp3" length="8343"/>
-<guid>
-http://www.podcastgarden.com/episode/sarah-e-dalva_9
-</guid>
-<pubDate>Sun, 22 Jan 2017 00:00:00 MST</pubDate>
-<itunes:duration>83:43</itunes:duration>
-<itunes:keywords/>
-<itunes:explicit>no</itunes:explicit>
-</item>
-
-<item>
-<title>Getulio Correa</title>
-<itunes:author>info@podcastgarden.com ()</itunes:author>
-<itunes:subtitle>Pregação do Culto de Quinta-Feira</itunes:subtitle>
-<itunes:summary>Pregação do Culto de Quinta-Feira</itunes:summary>
-<enclosure url="https://archive.org/download/120117_201702/12-01-17.m4a" type="audio/mpeg" length="3152"/>
-<guid>
-http://www.podcastgarden.com/episode/getulio-correa_98558
-</guid>
-<pubDate>Thu, 12 Jan 2017 00:00:00 MST</pubDate>
-<itunes:duration>31:52</itunes:duration>
-<itunes:keywords/>
-<itunes:explicit>no</itunes:explicit>
+	<title>Cleiton Vidal 29-12-16</title>
+	<itunes:summary>Palavra trazida pelo pastor Cleiton Vidal no dia 23 de Dezembro de 2016</itunes:summary>
+	<enclosure url="https://archive.org/download/120117_201702/CleitonVidal29-12-16.m4a" type="audio/mpeg" length="3402"/>
+	<pubDate>Thu, 29 Dec 2016 00:00:00 MST</pubDate>
+	<itunes:duration>34:02</itunes:duration>
+	<itunes:keywords>palavra</itunes:keywords>
 </item>
 <item>
-<title>Cleiton Vidal 29-12-16</title>
-<itunes:author>info@podcastgarden.com ()</itunes:author>
-<itunes:subtitle>Pregação de Terça-Feira</itunes:subtitle>
-<itunes:summary>Pregação de Terça-Feira</itunes:summary>
-<enclosure url="https://archive.org/download/120117_201702/CleitonVidal29-12-16.m4a" type="audio/mpeg" length="3402"/>
-<guid>
-http://www.podcastgarden.com/episode/cleiton-vidal-29-12-16_98559
-</guid>
-<pubDate>Thu, 29 Dec 2016 00:00:00 MST</pubDate>
-<itunes:duration>34:02</itunes:duration>
-<itunes:keywords/>
-<itunes:explicit>no</itunes:explicit>
+	<title>Getulio Correa</title>
+	<itunes:summary>Palavra trazida pelo plesbitero no dia 12 de Janeiro de 2017</itunes:summary>
+	<enclosure url="https://archive.org/download/120117_201702/12-01-17.m4a" type="audio/mpeg" length="3152"/>
+	<pubDate>Thu, 12 Jan 2017 00:00:00 MST</pubDate>
+	<itunes:duration>31:52</itunes:duration>
+	<itunes:keywords>palavra</itunes:keywords>
 </item>
 <item>
-<title>Ana e Fernanda - 1</title>
-<itunes:author>info@podcastgarden.com ()</itunes:author>
-<itunes:subtitle>Primeira part</itunes:subtitle>
-<itunes:summary>Louvor Quinta-feira</itunes:summary>
-<enclosure url="https://archive.org/download/120117_201702/AnaEFernanda16-02-201711.m4a" type="audio/mpeg" length="0334"/>
-<guid>
-http://fb.com/mayconmo
-</guid>
-<pubDate>Thu, 16 Feb 2017 00:00:00 MST</pubDate>
-<itunes:duration>3:34</itunes:duration>
-<itunes:keywords/>
-<itunes:explicit>no</itunes:explicit>
+	<title>Sarah e Dalva</title>
+	<itunes:summary>Louvor de Sarah e Dalva</itunes:summary>
+	<enclosure url="https://archive.org/download/120117_201702/DalvaESarah22-01-17.m4a" type="audio/mpeg" length="0445"/>
+	<pubDate>Sun, 22 Jan 2017 00:00:00 MST</pubDate>
+	<itunes:duration>04:45</itunes:duration>
+	<itunes:keywords>louvor</itunes:keywords>
 </item>
 <item>
-<title>Ana e Fernanda - 2</title>
-<itunes:author>info@podcastgarden.com ()</itunes:author>
-<itunes:subtitle>Segunda part</itunes:subtitle>
-<itunes:summary>Louvor Quinta-feira</itunes:summary>
-<enclosure url="https://archive.org/download/120117_201702/AnaEFernanda16-02-201722.m4a" type="audio/mpeg" length="0339"/>
-<guid>
-http://fb.com/mayconmo
-</guid>
-<pubDate>Thu, 16 Feb 2017 00:00:00 MST</pubDate>
-<itunes:duration>3:39</itunes:duration>
-<itunes:keywords/>
-<itunes:explicit>no</itunes:explicit>
+	<title>Cleiton 07-02-17</title>
+	<itunes:summary>Palavra trazida pelo pastor Cleiton Vidal no dia 07 de Fevereiro de 2017</itunes:summary>
+	<enclosure url="https://archive.org/download/120117_201702/CleitonVidal07-02-17.m4a" type="audio/m4a" length="6206"/>
+	<pubDate>Tue, 7 Feb 2017 00:00:00 MST</pubDate>
+	<itunes:duration>62:06</itunes:duration>
+	<itunes:keywords>palavra</itunes:keywords>
 </item>
-
 <item>
-<title>Noel</title>
-<itunes:author>info@podcastgarden.com ()</itunes:author>
-<itunes:subtitle>pregacao</itunes:subtitle>
-<itunes:summary>pregacao de hoje</itunes:summary>
-<enclosure url="https://archive.org/download/120117_201702/19-02-17.m4a" type="audio/mpeg" length="3728"/>
-<guid>
-http://fb.com/mayconmo
-</guid>
-<pubDate>Sun, 19 Feb 2017 00:00:00 MST</pubDate>
-<itunes:duration>37:28</itunes:duration>
-<itunes:keywords/>
-<itunes:explicit>no</itunes:explicit>
+	<title>Ana e Fernanda - 1</title>
+	<itunes:summary>Louvor de Ana e Fernanda</itunes:summary>
+	<enclosure url="https://archive.org/download/120117_201702/AnaEFernanda16-02-201711.m4a" type="audio/mpeg" length="0334"/>
+	<pubDate>Thu, 16 Feb 2017 00:00:00 MST</pubDate>
+	<itunes:duration>3:34</itunes:duration>
+	<itunes:keywords>louvor</itunes:keywords>
+</item>
+<item>
+	<title>Ana e Fernanda - 2</title>
+	<itunes:summary>Louvor de Ana e Fernanda</itunes:summary>
+	<enclosure url="https://archive.org/download/120117_201702/AnaEFernanda16-02-201722.m4a" type="audio/mpeg" length="0339"/>
+	<pubDate>Thu, 16 Feb 2017 00:00:00 MST</pubDate>
+	<itunes:duration>3:39</itunes:duration>
+	<itunes:keywords>louvor</itunes:keywords>
+</item>
+<item>
+	<title>Noel</title>
+	<itunes:summary>Palavra trazida pelo plesbitero Noel de Oliveira no dia 19 de Fevereiro de 2017</itunes:summary>
+	<enclosure url="https://archive.org/download/120117_201702/19-02-17.m4a" type="audio/mpeg" length="3728"/>
+	<pubDate>Sun, 19 Feb 2017 00:00:00 MST</pubDate>
+	<itunes:duration>37:28</itunes:duration>
+	<itunes:keywords>palavra</itunes:keywords>
+</item>
+<item>
+	<title>Pr Sergio Salvador</title>
+	<itunes:summary>Palavra trazida pelo pastor Sergio Salvador no dia 25 de Novembro de 2017</itunes:summary>
+	<enclosure url="https://archive.org/download/120117_201702/pastor.mp3" type="audio/mpeg" length="8343"/>
+	<pubDate>Sat, 25 Nov 2017 00:00:00 MST</pubDate>
+	<itunes:duration>83:43</itunes:duration>
+	<itunes:keywords>palavra</itunes:keywords>
+</item>
+<item>
+	<title>Pr Cleiton Vidal</title>
+	<itunes:summary>Palavra trazida pelo pastor Cleiton Vidal no dia 25 de Novembro de 2017</itunes:summary>
+	<enclosure url="https://archive.org/download/120117_201702/Cleiton%20Vidal%2026-11-17.m4a" type="audio/mpeg" length="4033"/>
+	<pubDate>Sun, 25 Nov 2017 00:00:00 MST</pubDate>
+	<itunes:duration>40:33</itunes:duration>
+	<itunes:keywords>palavra</itunes:keywords>
 </item>
 </channel>
 </rss>
