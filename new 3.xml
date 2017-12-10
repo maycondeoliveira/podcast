@@ -139,11 +139,12 @@ Criado em 2017,Maycon Maia é um podcast que aborda temas relacionados a musica,
 </item>
 <item>
 	<title>Santa Ceia Dez/17</title>
-	<itunes:summary>![CDATA[
+	<itunes:summary>
 	Ultima santa ceia de 2017.
-	Palavra: Pr.Cleiton Vidal]]</itunes:summary>
+	Palavra: Pr.Cleiton Vidal
+	</itunes:summary>
 	<enclosure url="https://archive.org/download/120117_201702/ceia1217.mp3" type="audio/mpeg" length="14313"/>
-	<pubDate>Thu, 07 Dec 2017 00:00:00 MST</pubDate>
+	<pubDate>Sat, 10 Dec 2017 00:00:00 MST</pubDate>
 	<itunes:duration>1:43:13</itunes:duration>
 	<itunes:keywords>palavra</itunes:keywords>
 </item>
