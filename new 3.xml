@@ -158,6 +158,16 @@ Criado em 2017,Maycon Maia é um podcast que aborda temas relacionados a musica,
 	<itunes:duration>38:24</itunes:duration>
 	<itunes:keywords>palavra</itunes:keywords>
 </item>
+<item>
+	<title>Pastor Dorvalino de Oliveira - 16/12/2017</title>
+	<itunes:summary>
+	Palavra trazida pelo Pastor Dorvalino de Oliveira no dia 16 de Dezembro de 2017 e louvor de Marizete de Oliveira
+	</itunes:summary>
+	<enclosure url="https://archive.org/download/120117_201702/dorvalino161217.mp3" type="audio/mpeg" length="4620"/>
+	<pubDate>Sat, 16 Dec 2017 00:00:00 MST</pubDate>
+	<itunes:duration>46:20</itunes:duration>
+	<itunes:keywords>palavra</itunes:keywords>
+</item>
 
 </channel>
 </rss>
