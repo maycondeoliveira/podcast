@@ -169,9 +169,9 @@ Criado em 2017,Maycon Maia é um podcast que aborda temas relacionados a musica,
 	<itunes:keywords>palavra</itunes:keywords>
 </item>
 <item>
-	<title>A casa caiu - Noél de Oliveira</title>
+	<title>![CDATA[A casa caiu - Noél de Oliveira]]</title>
 	<itunes:summary>
-	A casa caiu - Noél de Oliveira
+	![CDATA[A casa caiu - Noél de Oliveira]]
 	</itunes:summary>
 	<enclosure url="https://archive.org/download/120117_201702/Noel_28_01_18.mp3" type="audio/mpeg" length="4243/>
 	<pubDate>Sun, 28 Jan 00:00:00 MST</pubDate>
