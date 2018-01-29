@@ -1,6 +1,15 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+	xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
+	xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
+>
 <channel>
-<atom:link href="http://www.podcastgarden.com/podcast/podcast-rss.php?id=11312" rel="self" type="application/rss+xml"/>
 <title>
 Maycon Maia
 </title>
@@ -35,24 +44,11 @@ Criado em 2017,Maycon Maia é um podcast que aborda temas relacionados a musica,
 </itunes:category>
 <itunes:category text="Music"/>
 <itunes:explicit>no</itunes:explicit>
-<image>
-    <url>
-	http://www.podcastgarden.com/login/images-22/22526/Logo_-_1400_1400.jpg
-	</url>
-    <title>
-	Maycon Maia
-	</title>
-    <link>
-	https://www.facebook.com/mayconmo
-	</link>
-    <width>1400</width>
-    <height>1400</height>    
-  </image>
 
 <item>
 	<title>Cleiton Vidal 29-12-16</title>
 	<itunes:summary>Palavra trazida pelo pastor Cleiton Vidal no dia 23 de Dezembro de 2016</itunes:summary>
-	<enclosure url="https://archive.org/download/120117_201702/CleitonVidal29-12-16.m4a" type="audio/mpeg" length="3402"/>
+	<enclosure url="http://archive.org/download/120117_201702/CleitonVidal29-12-16.m4a" type="audio/mpeg" length="3402"/>
 	<pubDate>Thu, 29 Dec 2016 00:00:00 MST</pubDate>
 	<itunes:duration>34:02</itunes:duration>
 	<itunes:keywords>palavra</itunes:keywords>
@@ -60,7 +56,7 @@ Criado em 2017,Maycon Maia é um podcast que aborda temas relacionados a musica,
 <item>
 	<title>Getulio Correa</title>
 	<itunes:summary>Palavra trazida pelo plesbitero no dia 12 de Janeiro de 2017</itunes:summary>
-	<enclosure url="https://archive.org/download/120117_201702/12-01-17.m4a" type="audio/mpeg" length="3152"/>
+	<enclosure url="http://archive.org/download/120117_201702/12-01-17.m4a" type="audio/mpeg" length="3152"/>
 	<pubDate>Thu, 12 Jan 2017 00:00:00 MST</pubDate>
 	<itunes:duration>31:52</itunes:duration>
 	<itunes:keywords>palavra</itunes:keywords>
@@ -68,7 +64,7 @@ Criado em 2017,Maycon Maia é um podcast que aborda temas relacionados a musica,
 <item>
 	<title>Sarah e Dalva</title>
 	<itunes:summary>Louvor de Sarah e Dalva</itunes:summary>
-	<enclosure url="https://archive.org/download/120117_201702/DalvaESarah22-01-17.m4a" type="audio/mpeg" length="0445"/>
+	<enclosure url="http://archive.org/download/120117_201702/DalvaESarah22-01-17.m4a" type="audio/mpeg" length="0445"/>
 	<pubDate>Sun, 22 Jan 2017 00:00:00 MST</pubDate>
 	<itunes:duration>04:45</itunes:duration>
 	<itunes:keywords>louvor</itunes:keywords>
@@ -76,7 +72,7 @@ Criado em 2017,Maycon Maia é um podcast que aborda temas relacionados a musica,
 <item>
 	<title>Cleiton 07-02-17</title>
 	<itunes:summary>Palavra trazida pelo pastor Cleiton Vidal no dia 07 de Fevereiro de 2017</itunes:summary>
-	<enclosure url="https://archive.org/download/120117_201702/CleitonVidal07-02-17.m4a" type="audio/m4a" length="6206"/>
+	<enclosure url="http://archive.org/download/120117_201702/CleitonVidal07-02-17.m4a" type="audio/m4a" length="6206"/>
 	<pubDate>Tue, 7 Feb 2017 00:00:00 MST</pubDate>
 	<itunes:duration>62:06</itunes:duration>
 	<itunes:keywords>palavra</itunes:keywords>
@@ -84,7 +80,7 @@ Criado em 2017,Maycon Maia é um podcast que aborda temas relacionados a musica,
 <item>
 	<title>Ana e Fernanda - 1</title>
 	<itunes:summary>Louvor de Ana e Fernanda</itunes:summary>
-	<enclosure url="https://archive.org/download/120117_201702/AnaEFernanda16-02-201711.m4a" type="audio/mpeg" length="0334"/>
+	<enclosure url="http://archive.org/download/120117_201702/AnaEFernanda16-02-201711.m4a" type="audio/mpeg" length="0334"/>
 	<pubDate>Thu, 16 Feb 2017 00:00:00 MST</pubDate>
 	<itunes:duration>3:34</itunes:duration>
 	<itunes:keywords>louvor</itunes:keywords>
@@ -92,7 +88,7 @@ Criado em 2017,Maycon Maia é um podcast que aborda temas relacionados a musica,
 <item>
 	<title>Ana e Fernanda - 2</title>
 	<itunes:summary>Louvor de Ana e Fernanda</itunes:summary>
-	<enclosure url="https://archive.org/download/120117_201702/AnaEFernanda16-02-201722.m4a" type="audio/mpeg" length="0339"/>
+	<enclosure url="http://archive.org/download/120117_201702/AnaEFernanda16-02-201722.m4a" type="audio/mpeg" length="0339"/>
 	<pubDate>Thu, 16 Feb 2017 00:00:00 MST</pubDate>
 	<itunes:duration>3:39</itunes:duration>
 	<itunes:keywords>louvor</itunes:keywords>
@@ -100,7 +96,7 @@ Criado em 2017,Maycon Maia é um podcast que aborda temas relacionados a musica,
 <item>
 	<title>Noel</title>
 	<itunes:summary>Palavra trazida pelo plesbitero Noel de Oliveira no dia 19 de Fevereiro de 2017</itunes:summary>
-	<enclosure url="https://archive.org/download/120117_201702/19-02-17.m4a" type="audio/mpeg" length="3728"/>
+	<enclosure url="http://archive.org/download/120117_201702/19-02-17.m4a" type="audio/mpeg" length="3728"/>
 	<pubDate>Sun, 19 Feb 2017 00:00:00 MST</pubDate>
 	<itunes:duration>37:28</itunes:duration>
 	<itunes:keywords>palavra</itunes:keywords>
@@ -108,7 +104,7 @@ Criado em 2017,Maycon Maia é um podcast que aborda temas relacionados a musica,
 <item>
 	<title>Pr Sergio Salvador</title>
 	<itunes:summary>Palavra trazida pelo pastor Sergio Salvador no dia 25 de Novembro de 2017</itunes:summary>
-	<enclosure url="https://archive.org/download/120117_201702/pastor.mp3" type="audio/mpeg" length="8343"/>
+	<enclosure url="http://archive.org/download/120117_201702/pastor.mp3" type="audio/mpeg" length="8343"/>
 	<pubDate>Sat, 25 Nov 2017 00:00:00 MST</pubDate>
 	<itunes:duration>83:43</itunes:duration>
 	<itunes:keywords>palavra</itunes:keywords>
@@ -116,7 +112,7 @@ Criado em 2017,Maycon Maia é um podcast que aborda temas relacionados a musica,
 <item>
 	<title>Pr Cleiton Vidal</title>
 	<itunes:summary>Palavra trazida pelo pastor Cleiton Vidal no dia 26 de Novembro de 2017</itunes:summary>
-	<enclosure url="https://archive.org/download/120117_201702/Cleiton%20Vidal%2026-11-17.m4a" type="audio/mpeg" length="4033"/>
+	<enclosure url="http://archive.org/download/120117_201702/Cleiton%20Vidal%2026-11-17.m4a" type="audio/mpeg" length="4033"/>
 	<pubDate>Sun, 26 Nov 2017 00:00:00 MST</pubDate>
 	<itunes:duration>40:33</itunes:duration>
 	<itunes:keywords>palavra</itunes:keywords>
@@ -124,7 +120,7 @@ Criado em 2017,Maycon Maia é um podcast que aborda temas relacionados a musica,
 <item>
 	<title>Pr Cleiton Vidal</title>
 	<itunes:summary>Palavra trazida pelo pastor Cleiton Vidal no dia 28 de Novembro de 2017</itunes:summary>
-	<enclosure url="https://archive.org/download/120117_201702/Cleiton_Vidal_28-11-2017.mp3" type="audio/mpeg" length="5318"/>
+	<enclosure url="http://archive.org/download/120117_201702/Cleiton_Vidal_28-11-2017.mp3" type="audio/mpeg" length="5318"/>
 	<pubDate>Tue, 28 Nov 2017 00:00:00 MST</pubDate>
 	<itunes:duration>53:18</itunes:duration>
 	<itunes:keywords>palavra</itunes:keywords>
@@ -132,7 +128,7 @@ Criado em 2017,Maycon Maia é um podcast que aborda temas relacionados a musica,
 <item>
 	<title>Pr Valdir</title>
 	<itunes:summary>Palavra trazida pelo pastor Valdir no dia 07 de Dezembro de 2017</itunes:summary>
-	<enclosure url="https://archive.org/download/120117_201702/pr_valdir.mp3" type="audio/mpeg" length="3355"/>
+	<enclosure url="http://archive.org/download/120117_201702/pr_valdir.mp3" type="audio/mpeg" length="3355"/>
 	<pubDate>Thu, 07 Dec 2017 00:00:00 MST</pubDate>
 	<itunes:duration>33:55</itunes:duration>
 	<itunes:keywords>palavra</itunes:keywords>
@@ -143,7 +139,7 @@ Criado em 2017,Maycon Maia é um podcast que aborda temas relacionados a musica,
 	Ultima santa ceia de 2017.
 	Palavra: Pr.Cleiton Vidal
 	</itunes:summary>
-	<enclosure url="https://archive.org/download/120117_201702/ceia1217.mp3" type="audio/mpeg" length="14313"/>
+	<enclosure url="http://archive.org/download/120117_201702/ceia1217.mp3" type="audio/mpeg" length="14313"/>
 	<pubDate>Sat, 09 Dec 2017 00:00:00 MST</pubDate>
 	<itunes:duration>1:43:13</itunes:duration>
 	<itunes:keywords>palavra</itunes:keywords>
@@ -153,7 +149,7 @@ Criado em 2017,Maycon Maia é um podcast que aborda temas relacionados a musica,
 	<itunes:summary>
 	O castigo de Deus - Noel de Oliveira
 	</itunes:summary>
-	<enclosure url="https://archive.org/download/120117_201702/noel_12_12.mp3" type="audio/mpeg" length="3824"/>
+	<enclosure url="http://archive.org/download/120117_201702/noel_12_12.mp3" type="audio/mpeg" length="3824"/>
 	<pubDate>Tue, 12 Dec 2017 00:00:00 MST</pubDate>
 	<itunes:duration>38:24</itunes:duration>
 	<itunes:keywords>palavra</itunes:keywords>
@@ -163,9 +159,19 @@ Criado em 2017,Maycon Maia é um podcast que aborda temas relacionados a musica,
 	<itunes:summary>
 	Palavra trazida pelo Pastor Dorvalino de Oliveira no dia 16 de Dezembro de 2017 e louvor de Marizete de Oliveira
 	</itunes:summary>
-	<enclosure url="https://archive.org/download/120117_201702/dorvalino161217.mp3" type="audio/mpeg" length="4620"/>
+	<enclosure url="http://archive.org/download/120117_201702/dorvalino161217.mp3" type="audio/mpeg" length="4620"/>
 	<pubDate>Sat, 16 Dec 2017 00:00:00 MST</pubDate>
 	<itunes:duration>46:20</itunes:duration>
+	<itunes:keywords>palavra</itunes:keywords>
+</item>
+<item>
+	<title>![CDATA[A casa caiu - Noél de Oliveira]]</title>
+	<itunes:summary>
+	![CDATA[A casa caiu - Noél de Oliveira]]
+	</itunes:summary>
+	<enclosure url="http://archive.org/download/120117_201702/Noel_28_01_18.mp3" type="audio/mpeg" length="4243"/>
+	<pubDate>Sun, 28 Jan 2018 00:00:00 MST</pubDate>
+	<itunes:duration>42:43</itunes:duration>
 	<itunes:keywords>palavra</itunes:keywords>
 </item>
 </channel>
