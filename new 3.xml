@@ -195,5 +195,18 @@ Criado em 2017,Maycon Maia é um podcast que aborda temas relacionados a musica,
 	<itunes:duration>40:13</itunes:duration>
 	<itunes:keywords>palavra</itunes:keywords>
 </item>
+<item>
+	<title>Mensagem que impactou Cuiabá - Pr.Raiwue Carmelo</title>
+	<itunes:summary>
+	Mensagem que impactou Cuiabá - Pr.Raiwue Carmelo
+	</itunes:summary>
+	<enclosure url="https://archive.org/download/120117_201702/MENSAGEM%20QUE%20IMPACTOU%20CUIAB%C3%81%20%20%20PR%20RAIQUE%20CARMELO.mp3" type="audio/mpeg" length="4013"/>
+	<pubDate>Sun, 01 Apr 2019 00:00:00 MST</pubDate>
+	<itunes:duration>01:43:42</itunes:duration>
+	<itunes:keywords>palavra</itunes:keywords>
+</item>
+
+
+
 </channel>
 </rss>
