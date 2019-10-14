@@ -215,6 +215,26 @@ Criado em 2017,Maycon Maia é um podcast que aborda temas relacionados a musica,
 	<itunes:duration>50:00</itunes:duration>
 	<itunes:keywords>palavra</itunes:keywords>
 </item>
+<item>
+	<title>08-09-19 - Noél de Oliveira</title>
+	<itunes:summary>
+	08-09-19 - Noél de Oliveira
+	</itunes:summary>
+	<enclosure url="https://archive.org/download/120117_201702/noel_08_09_19.mp3" type="audio/mpeg" length="5044"/>
+	<pubDate>Sun, 08 Sep 2019 00:00:00 MST</pubDate>
+	<itunes:duration>50:44</itunes:duration>
+	<itunes:keywords>palavra</itunes:keywords>
+</item>
+<item>
+	<title>12-10-19 - Noél de Oliveira</title>
+	<itunes:summary>
+	12-10-19 - Noél de Oliveira
+	</itunes:summary>
+	<enclosure url="https://archive.org/download/120117_201702/Noel%20-%2012-10-2019.mp3" type="audio/mpeg" length="3644"/>
+	<pubDate>Sat, 12 Oct 2019 00:00:00 MST</pubDate>
+	<itunes:duration>36:44</itunes:duration>
+	<itunes:keywords>palavra</itunes:keywords>
+</item>
 
 
 </channel>
