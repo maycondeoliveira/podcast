@@ -236,6 +236,19 @@ Criado em 2017,Maycon Maia é um podcast que aborda temas relacionados a musica,
 	<itunes:keywords>palavra</itunes:keywords>
 </item>
 
+<item>
+	<title>Vasos Emprestados - Noél de Oliveira</title>
+	<itunes:summary>
+	Tema: Vasos Emprestados
+	Texto: 2Reis 4:03
+	Pb. Noél de Oliveira
+	</itunes:summary>
+	<enclosure url="https://archive.org/download/120117_201702/Noel%20-%20Vasos%20emprestados%20-%2028-06-20.mp3" type="audio/mpeg" length="2125"/>
+	<pubDate>Sun, 20 Jun 2019 00:00:00 MST</pubDate>
+	<itunes:duration>21:25</itunes:duration>
+	<itunes:keywords>palavra</itunes:keywords>
+</item>
+
 
 </channel>
 </rss>
